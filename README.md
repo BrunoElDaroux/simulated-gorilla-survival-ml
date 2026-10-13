@@ -1,4 +1,4 @@
-# 🦍 Machine Learning for Survival Prediction in Mountain Gorilla Populations
+# 🦍 Machine Learning for Survival Prediction in Mountain Gorilla Populations (A Simulated Project)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -30,7 +30,7 @@ Any future research using real institutional or field data would require the app
 
 ---
 
-## Key Findings Summary
+## Key Findings Summary (Simulated Results)
 
 1. `Age is the dominant predictor — not group size.`
 Permutation feature importance places age at the top of the model (importance = 0.096 ± 0.013), nearly twice the signal of its ordinal encoding (0.049 ± 0.012). Together, these two age-related features account for the strongest survival signal in the data, consistent with established mountain gorilla mortality curves: infants (mean predicted survival probability = 0.82, range 0.46 – 0.97) and seniors (range 0.82 – 1.0) are the highest-risk classes. Of the 18 observed deaths in the test window (2021 – 2023), 12 (67%) were infants and 6 (33%) were seniors; zero prime adults died.
