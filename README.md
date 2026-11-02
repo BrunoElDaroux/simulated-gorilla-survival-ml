@@ -15,8 +15,8 @@ This repository demonstrates how SQL, feature engineering, a Random Forest class
 
 The target is `survived_next_year` (1 = survived, 0 = did not survive). This is a **binary next-year classification task**, not a time-to-event survival model such as a Cox proportional-hazards model.
 
-### ⚠️ Data Transparency
---
+## ⚠️ Data Transparency
+
 
 The datasets used in this project are **synthetic** and were created strictly for **educational, analytical, and portfolio purposes**. They do not represent real individual mountain gorillas, verified survival records, or field observations.
 
