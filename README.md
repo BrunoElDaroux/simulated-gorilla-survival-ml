@@ -1,4 +1,4 @@
-# 🦍 Machine Learning for Next-Year Survival in Mountain Gorillas
+# 🦍 Simulated Machine Learning for Next-Year Survival in Mountain Gorillas
 
 **A synthetic, end-to-end machine-learning project exploring longitudinal ecological data, mortality-risk classification, model interpretation, and group-level risk screening.**
 
